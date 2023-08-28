@@ -1,10 +1,10 @@
 title: sia
-subtitle: A Portfolio Jekyll Theme Built for Developers
+subtitle: 시아네 블로그에 오신 것을 환영합니다♥
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  공부 기록장 용으로 만든 깃헙 블로그입니다.
 
 url: "https://yoorasia.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/study" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
@@ -25,11 +25,11 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
+author: Sia
+author_bio: Hi, my name is Sia :D
+author_email: "holygrail@gmail.com"
+author_location: Republic of Korea
+author_website_url: "https://yoorasia.github.io"
 typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
