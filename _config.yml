@@ -22,7 +22,7 @@ urls:
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
-author_logo: profile.png
+author_logo: profile.svg
 author: Sia
 author_bio: Hi, my name is Sia :D
 author_email: "holygrail317@gmail.com"
